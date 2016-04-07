@@ -1,5 +1,7 @@
 # angular-chart.js
 
+This some custom modifications to angular chart.  We hope to roll this back into angular-chart and to expose more knobs, if it's something the community will want/need.
+
 [![Bower version](https://badge.fury.io/bo/angular-chart.js.svg)](http://badge.fury.io/bo/angular-chart.js)
 [![npm version](https://badge.fury.io/js/angular-chart.js.svg)](http://badge.fury.io/js/angular-chart.js)
 [![Build Status](https://travis-ci.org/jtblin/angular-chart.js.svg?branch=master)](https://travis-ci.org/jtblin/angular-chart.js)
